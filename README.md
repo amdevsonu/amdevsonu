@@ -28,6 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdevsonu&show_icons=true&locale=en" alt="amdevsonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
-### my git Hub contributions
-![snake animation](https://github.com/amsonudev/amsonudev/blob/output/gitHub-contribution-grid-snake.svg)
+
 
