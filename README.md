@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajkumarroutraysonu33428@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **AM FUNNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
