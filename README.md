@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
 
-
+![snake gif](https://github.com/amdevsonu/amdevsonu/blob/output/github-contribution-grid-snake.gif)
