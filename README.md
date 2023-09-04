@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdevsonu&show_icons=true&locale=en" alt="amdevsonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amdevsonu/amdevsonu/output/github-contribution-grid-snake.svg" />
