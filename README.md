@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdevsonu&label=Profile%20views&color=0e75b6&style=flat" alt="amdevsonu" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **FROTEND**
 
 - 💬 Ask me about **MERN**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rajkumar routray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar routray" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/Rajkumar Routray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar routray" height="30" width="40" /></a>
 <a href="https://fb.com/rajkumar routray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajkumar routray" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_soonuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_soonuu" height="30" width="40" /></a>
 </p>
@@ -28,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdevsonu&show_icons=true&locale=en" alt="amdevsonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
-
+### my git Hub contributions
+![snake animation](https://github.com/amsonudev/amsonudev/blob/output/gitHub-contribution-grid-snake.svg)
 
