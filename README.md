@@ -3,6 +3,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdevsonu&label=Profile%20views&color=0e75b6&style=flat" alt="amdevsonu" /> </p>
 
 - 🌱 I’m currently learning **FROTEND**
@@ -28,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdevsonu&show_icons=true&locale=en" alt="amdevsonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
+MY RESUME
+<img align="left" alt="coding" width="400" src="https://repository-images.githubusercontent.com/279611541/b7e1e580-c611-11ea-9b24-523c65baea0e">
 
-<div align= "center"> <img src="https://giphy.com/stickers/plantproof-coming-soon-plant-proof-podcast-MXoTE55439mPTw6oD1"> </div>
