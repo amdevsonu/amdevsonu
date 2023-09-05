@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdevsonu&label=Profile%20views&color=0e75b6&style=flat" alt="amdevsonu" /> </p>
 
-- 🌱 I’m currently learning **FROTEND**
+- 🌱 I’m currently learning **FRONTEND**
 
 - 💬 Ask me about **MERN**
 
