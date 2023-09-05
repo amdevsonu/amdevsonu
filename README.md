@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
 
-<div align= "center"> <img src="https://giphy.com/stickers/bakersfieldrealestategroup-transparent-coming-soon-bakersfield-jtd2HFhEVN1A4w75kx"> </div>
+<div align= "center"> <img src="https://giphy.com/stickers/plantproof-coming-soon-plant-proof-podcast-MXoTE55439mPTw6oD1"> </div>
