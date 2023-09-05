@@ -29,6 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdevsonu&show_icons=true&locale=en" alt="amdevsonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdevsonu&" alt="amdevsonu" /></p>
-MY RESUME
+🔗𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
 <img align="left" alt="coding" width="400" src="https://repository-images.githubusercontent.com/279611541/b7e1e580-c611-11ea-9b24-523c65baea0e">
 
