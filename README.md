@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajkumar-routray-5a0353233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar routray" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rajkumar-routray-5a0353233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar routray" height="30" width="40" /></a>
 <a href="https://fb.com/rajkumar routray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajkumar routray" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_soonuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_soonuu" height="30" width="40" /></a>
 </p>
