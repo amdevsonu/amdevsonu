@@ -32,4 +32,4 @@
 🔗𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
 <img align="left" alt="coding" width="400" src="https://repository-images.githubusercontent.com/279611541/b7e1e580-c611-11ea-9b24-523c65baea0e">
 
-![snake gif](https://github.com/amdevsonu/amdevsonu/blob/output/github-contribution-grid-snake.gif)
+
