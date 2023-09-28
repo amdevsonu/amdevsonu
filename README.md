@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SONU</h1>
+<h1 align="center">Hi There👋, I'm SONU</h1>
 <div align= "center"> <img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif"> </div> 
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
