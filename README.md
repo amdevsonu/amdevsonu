@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdevsonu&label=Profile%20views&color=0e75b6&style=flat" alt="amdevsonu" /> </p>
 
-- 🌱 I’m currently learning **FRONTEND**
+- 🌱 I’m currently learning **BACKEND**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **rajkumarroutraysonu33428@gmail.com**
 
